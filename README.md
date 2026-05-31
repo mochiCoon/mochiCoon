@@ -1,4 +1,4 @@
-# hey, i'm mochicode 👋
+# hey, i'm mochicoon 👋
 
 i'm into cybersecurity, minecraft, and raccoons 🦝
 
