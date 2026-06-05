@@ -14,7 +14,7 @@ right now i'm learning:
 - raccoons
 
 ## goals
-- get better at python and rust
+- get better at c# and rust
 - learn more about cybersecurity
 - make cool projects
 - not spend 3 hours debugging a missing semicolon
