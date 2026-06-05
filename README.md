@@ -4,7 +4,7 @@ i'm into cybersecurity, minecraft, and raccoons 🦝
 
 right now i'm learning:
 - c#
-- python
+- rust
 
 ## stuff i like
 - cybersecurity
@@ -14,7 +14,7 @@ right now i'm learning:
 - raccoons
 
 ## goals
-- get better at python and c#
+- get better at python and rust
 - learn more about cybersecurity
 - make cool projects
 - not spend 3 hours debugging a missing semicolon
