@@ -1,22 +1,26 @@
-# hey, i'm mochicoon 👋
+# hey, i'm mochicoon
 
-i'm into cybersecurity, minecraft, and raccoons 🦝
+i like cybersecurity, minecraft, linux, and coding random stuff.
 
-right now i'm learning:
-- c#
-- rust
+currently learning:
+
+* Rust
 
 ## stuff i like
-- cybersecurity
-- minecraft
-- coding random projects
-- open source
-- raccoons
+
+* cybersecurity
+* minecraft
+* linux
+* open source
+* making random projects
 
 ## goals
-- get better at c# and rust
-- learn more about cybersecurity
-- make cool projects
-- not spend 3 hours debugging a missing semicolon
 
-thanks for stopping by :)
+* get better at rust
+* learn more about cybersecurity
+* make some cool projects
+* actually finish the projects i start
+
+most of the stuff here is just things i'm working on or messing around with.
+
+thanks for checking out my github :)
