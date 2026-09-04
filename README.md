@@ -4,7 +4,7 @@ i like cybersecurity, linux, and coding random stuff.
 
 ### currently learning
 <p>
-  <img src="https://skillicons.dev/icons?i=rust" height="40" />
+  <img src="https://skillicons.dev/icons?i=rust,cs" height="40" />
 </p>
 
 ---
