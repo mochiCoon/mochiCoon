@@ -27,6 +27,7 @@ i like cybersecurity, linux, and coding random stuff.
 - Menhera-rium: Deadly Dice
 - Resident Evil 7
 - Amnesia: A Machine for Pigs
+- Blue Archive
 
 ---
 
