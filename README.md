@@ -19,6 +19,8 @@ i like cybersecurity, linux, and coding random stuff.
 - linux
 - open source
 - making random projects
+<!-- tuxsonstuff told me it would be funny to add this :P -->
+- anime girl feet
 
 ---
 
