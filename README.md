@@ -1,10 +1,12 @@
 <h1 align="center">hello i'm mochi</h1>
-<p>
-  <img src="hina-sorasaki.gif" height="40" />
+
+<p align="center">
+  <img src="hina-sorasaki.gif" width="320" alt="hina sorasaki gif" />
 </p>
 
-
-i like cybersecurity, linux, and coding random stuff.
+<p align="center">
+  i like cybersecurity, linux, and coding random stuff.
+</p>
 
 ### currently learning
 <p>
