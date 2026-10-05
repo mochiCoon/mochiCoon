@@ -8,6 +8,8 @@
   i like cybersecurity, linux, and coding random stuff.
 </p>
 
+---
+
 ### currently learning
 <p>
   <img src="https://skillicons.dev/icons?i=rust,unity,ts,cs" height="40" />
