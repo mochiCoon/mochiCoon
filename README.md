@@ -29,15 +29,17 @@
 - making random projects
 - anime girl feet
 <!-- tuxsonstuff told me it would be funny to add this :P -->
+- Blue Archive
 
 ---
 
 ### games i'm into
 
+- Blue Archive
 - Menhera-rium: Deadly Dice
 - Resident Evil 7
 - Amnesia: A Machine for Pigs
-- Blue Archive
+
 
 ---
 
