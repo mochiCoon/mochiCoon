@@ -1,4 +1,8 @@
 <h1 align="center">hello i'm mochi</h1>
+<p>
+  <img src="hina-sorasaki.gif" height="40" />
+</p>
+
 
 i like cybersecurity, linux, and coding random stuff.
 
