@@ -12,7 +12,7 @@
 
 ### currently learning
 <p>
-  <img src="https://skillicons.dev/icons?i=godot,unity,ts,cs,gdscript" height="40" />
+  <img src="https://skillicons.dev/icons?i=godot,unity,ts,cs,gd-script" height="40" />
 </p>
 
 ---
