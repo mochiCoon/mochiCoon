@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  i like cybersecurity, linux, and coding random stuff.
+  
 </p>
 
 ---
