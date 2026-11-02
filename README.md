@@ -27,8 +27,6 @@
 - linux
 - open source
 - making random projects
-- anime girl feet
-<!-- tuxsonstuff told me it would be funny to add this :P -->
 - Blue Archive
 
 ---
@@ -45,16 +43,8 @@
 
 ### goals
 
-- [ ] get better at rust
-- [ ] learn more about cybersecurity
-- [ ] make some cool projects
-- [ ] actually finish the projects i start
+- [ ] finish a game.
 
----
-
-### pinned work
-
-most of the stuff here is just things i'm working on or messing around with — check the pinned repos below for the current highlights.
 
 ---
 
